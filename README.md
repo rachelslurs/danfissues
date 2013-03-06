@@ -1,7 +1,7 @@
 danfissues
 ==========
 
-Fisch has issues with things. Let's figure out what he has issues with.
+Fisch has issues with things. Let's learn more.
 
 ### Participate
 Submit an issue
