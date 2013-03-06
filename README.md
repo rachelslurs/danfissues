@@ -1,4 +1,4 @@
-#Fisch has issues with things. Let's learn more.
+#Fisch has issues with things. Let's learn more about these Fissues.
 
 ### Participate
 Submit an issue
