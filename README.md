@@ -1,6 +1,3 @@
-danfissues
-==========
-
 #Fisch has issues with things. Let's learn more.
 
 ### Participate
