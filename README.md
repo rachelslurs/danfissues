@@ -2,7 +2,7 @@
 
 ### Participate
 - Submit an issue
-- Tag it (smells, moist, tender)
+- Label it (smells, moist, tender)
 - Assign Dan to the issue
 
 ### Closing Fissues
