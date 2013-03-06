@@ -1,4 +1,4 @@
-# @danfischer87 has issues with things. Let's learn more about these Fissues.
+# [Fisch](@danfischer87) has issues with things. Let's learn more about these Fissues.
 
 ### Participate
 - [Submit a Fissue](https://github.com/rachelslurs/danfissues/issues/new)
