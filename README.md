@@ -1,9 +1,8 @@
 #Fisch has issues with things. Let's learn more about these Fissues.
 
 ### Participate
-- Submit a Fissue
+- [Submit a Fissue](https://github.com/rachelslurs/danfissues/issues/new)
 - Assign Dan to the Fissue
-- Dan/Rachel will Label it (smells, moist, tender)
 
 ### Closing Fissues
 - Closed issues are for things Dan actually likes.
