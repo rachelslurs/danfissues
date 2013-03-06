@@ -2,8 +2,8 @@
 
 ### Participate
 - Submit an issue
-- Label it (smells, moist, tender)
 - Assign Dan to the issue
+- Dan/Rachel will Label it (smells, moist, tender)
 
 ### Closing Fissues
 - Closed issues are for things Dan actually likes.
